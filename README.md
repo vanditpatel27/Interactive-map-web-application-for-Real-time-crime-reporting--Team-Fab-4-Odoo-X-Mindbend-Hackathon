@@ -12,11 +12,15 @@ https://drive.google.com/file/d/1PP5TChsVyVMe9vn5SABlW44A2VsIxqDC/view?usp=drive
 
 ● Develop an interactive map-based application that enables citizens to report crimes and
 incidents in real-time.
+
 ● Allow users to view crime data on an interactive map, helping communities stay informed
 about local safety concerns.
+
 ● Provide law enforcement agencies with valuable data to enhance proactive crime
 prevention measures.
+
 ● Implement real-time notifications to update users on ongoing investigations and crime
 trends.
+
 ● Foster seamless communication between citizens and law enforcement to improve
 public safety and community engagement.
