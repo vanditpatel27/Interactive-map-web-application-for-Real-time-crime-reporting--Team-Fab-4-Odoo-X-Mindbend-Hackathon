@@ -1,0 +1,1322 @@
+[
+  {
+    "place_id": "ChIJqcBXB6w2VDcRIp0JIrxZu5g",
+    "name": "Madhabdi Fire Station",
+    "address": "VM2J+HPG, Narsingdi - Araihazar Hwy, Madhabdi 1604, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "01726-688868",
+    "coordinates": {
+      "lat": 23.8514348,
+      "lng": 90.68182619999999
+    }
+  },
+  {
+    "place_id": "ChIJXU98hHdGVDcRXHxQN7a1R9I",
+    "name": "Homna Fire Station",
+    "address": "MQ9J+FF2, Gouripur Road, Homna 3546, Bangladesh",
+    "rating": 4.6,
+    "contact_number": "01766-306868",
+    "coordinates": {
+      "lat": 23.6686273,
+      "lng": 90.7811401
+    }
+  },
+  {
+    "place_id": "ChIJ-19xtpPAVTcRV_IZdGbQhoc",
+    "name": "Kallyanpur Fire Service & Civil Defence Station",
+    "address": "1216, মাজার রোড, ঢাকা, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01813-573418",
+    "coordinates": {
+      "lat": 23.7822427,
+      "lng": 90.34935399999999
+    }
+  },
+  {
+    "place_id": "ChIJnQE1ayDvVTcRz4PdcYPtqJE",
+    "name": "Dhamrai Fire Station",
+    "address": "W644+VQ4, Dhaka - Aricha Hwy, Dhamrai 1350, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01742-302850",
+    "coordinates": {
+      "lat": 23.9071322,
+      "lng": 90.206956
+    }
+  },
+  {
+    "place_id": "ChIJZdKSh7PrVTcRy8PUbXjWf8E",
+    "name": "Fire Service & Civil Defence Station - Savar",
+    "address": "R7H5+9JP, Dhaka - Aricha Hwy, Savar 1340, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "01730-002250",
+    "coordinates": {
+      "lat": 23.828471,
+      "lng": 90.259092
+    }
+  },
+  {
+    "place_id": "ChIJKTZZDkwwVDcR22UYYykYBfE",
+    "name": "Fire Service & Civil Defense Station",
+    "address": "WPC9+JPW, Raipur Highway, Narsingdi 1600, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01901-020902",
+    "coordinates": {
+      "lat": 23.9216219,
+      "lng": 90.7193252
+    }
+  },
+  {
+    "place_id": "ChIJcQcPR7CPVTcRQgkdjzUpPHw",
+    "name": "Fire Service and Civil Defense Station, Dohar",
+    "address": "J46F+639, R820, Bangladesh",
+    "rating": 4.8,
+    "contact_number": "01726-845949",
+    "coordinates": {
+      "lat": 23.6105284,
+      "lng": 90.1227207
+    }
+  },
+  {
+    "place_id": "ChIJ4YSUc9j8VTcRr016HIGTvSE",
+    "name": "Fire Service & Civil Defense",
+    "address": "34WQ+968, N4, Bangladesh",
+    "rating": 5,
+    "contact_number": "01901-020980",
+    "coordinates": {
+      "lat": 24.095911,
+      "lng": 90.13808979999999
+    }
+  },
+  {
+    "place_id": "ChIJcVWmWJW5VTcRColioQlsISc",
+    "name": "Postogola Fire Service Station",
+    "address": "MCRJ+H64, M C Rd, Dhaka, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01730-002216",
+    "coordinates": {
+      "lat": 23.691376,
+      "lng": 90.4305626
+    }
+  },
+  {
+    "place_id": "ChIJReVo8Pe2VTcRNc-niJa6X6c",
+    "name": "Demra Fire Station",
+    "address": "Demra-Narayanganj Rd, Sarulia, Near Rani Mahal Cinema Hall, PF7X+J67, Dhaka 1361, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002302",
+    "coordinates": {
+      "lat": 23.7140452,
+      "lng": 90.498046
+    }
+  },
+  {
+    "place_id": "ChIJg_a5hrrHVTcREqZbaMX2Wv8",
+    "name": "Fire Service & Civil Defence Station, Baridhara",
+    "address": "plot 1 Madani Ave, Dhaka 1212, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "02-8833000",
+    "coordinates": {
+      "lat": 23.7980196,
+      "lng": 90.42405649999999
+    }
+  },
+  {
+    "place_id": "ChIJG2R3_iLHVTcRp9Trpq8H_kA",
+    "name": "NP Engineering Limited (Npe)",
+    "address": "Nannu Plaza(3rd Floor)2495, Madani Avenue, Baridhara Dhaka-1212, Dhaka 1360, Bangladesh",
+    "rating": 5,
+    "contact_number": "01911-175831",
+    "coordinates": {
+      "lat": 23.79850919999999,
+      "lng": 90.434595
+    }
+  },
+  {
+    "place_id": "ChIJ2WtUJ-vHVTcRE68b0tcvjr0",
+    "name": "Community Fire Hydrant",
+    "address": "QCG4+Q2W, Dhaka 1212, Bangladesh",
+    "rating": 4.7,
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.7769796,
+      "lng": 90.40508419999999
+    }
+  },
+  {
+    "place_id": "ChIJMfDCANXHVTcROWYZor7o0uk",
+    "name": "DOHS Fire Service Station",
+    "address": "Q9MV+Q93, Rd No 19, Dhaka, Bangladesh",
+    "rating": 5,
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.784386,
+      "lng": 90.39342719999999
+    }
+  },
+  {
+    "place_id": "ChIJLVI84o_HVTcRoLP6MTkVEXs",
+    "name": "Sks Tower Fire Control Room",
+    "address": "Sks tower, Q9HW+9RR, ঢাকা 1212, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.7784849,
+      "lng": 90.397031
+    }
+  },
+  {
+    "place_id": "ChIJzZ-BDvHGVTcRYgo1n4TKVbY",
+    "name": "Kurmitola Fire Station",
+    "address": "RCG3+QWM, Dhaka 1206, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002232",
+    "coordinates": {
+      "lat": 23.8269605,
+      "lng": 90.4048085
+    }
+  },
+  {
+    "place_id": "ChIJ_9WQXmLHVTcRr5KCIGptoiU",
+    "name": "Fire Service and Civil Defense, Tejgaon Fire Station",
+    "address": "QC72+R62, Shaheed Tajuddin Ahmed Ave, Dhaka 1208, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01901-020758",
+    "coordinates": {
+      "lat": 23.7645059,
+      "lng": 90.40053089999999
+    }
+  },
+  {
+    "place_id": "ChIJz30cegDHVTcRRRK0tfcQ1eQ",
+    "name": "Rescue Fire Fighting Station",
+    "address": "RCM7+F92, Engineer Zobayer Hashan Street, Dhaka, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.8333113,
+      "lng": 90.4137757
+    }
+  },
+  {
+    "place_id": "ChIJKSMH1dfBVTcR9xq3rgRE_CU",
+    "name": "Fire Service And Civil Defence Station Mirpur",
+    "address": "R948+VVQ, Mirpur Rd, Dhaka 1216, Bangladesh",
+    "rating": 4.6,
+    "contact_number": "01628-138596",
+    "coordinates": {
+      "lat": 23.8072068,
+      "lng": 90.36724009999999
+    }
+  },
+  {
+    "place_id": "ChIJiWEBnju5VTcRe-21RUVxDQs",
+    "name": "GLOBALWIDE TECHNOLOGY & LOGISTICS",
+    "address": "59, Kazi Najrul Islam Avenue, 1st Floor, West Tejkunipara Farmgate, ঢাকা 1215, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "01919-883441",
+    "coordinates": {
+      "lat": 23.7551209,
+      "lng": 90.3910542
+    }
+  },
+  {
+    "place_id": "ChIJqcBXB6w2VDcRIp0JIrxZu5g",
+    "name": "Madhabdi Fire Station",
+    "address": "VM2J+HPG, Narsingdi - Araihazar Hwy, Madhabdi 1604, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "01726-688868",
+    "coordinates": {
+      "lat": 23.8514348,
+      "lng": 90.68182619999999
+    }
+  },
+  {
+    "place_id": "ChIJXU98hHdGVDcRXHxQN7a1R9I",
+    "name": "Homna Fire Station",
+    "address": "MQ9J+FF2, Gouripur Road, Homna 3546, Bangladesh",
+    "rating": 4.6,
+    "contact_number": "01766-306868",
+    "coordinates": {
+      "lat": 23.6686273,
+      "lng": 90.7811401
+    }
+  },
+  {
+    "place_id": "ChIJ-19xtpPAVTcRV_IZdGbQhoc",
+    "name": "Kallyanpur Fire Service & Civil Defence Station",
+    "address": "1216, মাজার রোড, ঢাকা, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01813-573418",
+    "coordinates": {
+      "lat": 23.7822427,
+      "lng": 90.34935399999999
+    }
+  },
+  {
+    "place_id": "ChIJnQE1ayDvVTcRz4PdcYPtqJE",
+    "name": "Dhamrai Fire Station",
+    "address": "W644+VQ4, Dhaka - Aricha Hwy, Dhamrai 1350, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01742-302850",
+    "coordinates": {
+      "lat": 23.9071322,
+      "lng": 90.206956
+    }
+  },
+  {
+    "place_id": "ChIJZdKSh7PrVTcRy8PUbXjWf8E",
+    "name": "Fire Service & Civil Defence Station - Savar",
+    "address": "R7H5+9JP, Dhaka - Aricha Hwy, Savar 1340, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "01730-002250",
+    "coordinates": {
+      "lat": 23.828471,
+      "lng": 90.259092
+    }
+  },
+  {
+    "place_id": "ChIJKTZZDkwwVDcR22UYYykYBfE",
+    "name": "Fire Service & Civil Defense Station",
+    "address": "WPC9+JPW, Raipur Highway, Narsingdi 1600, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01901-020902",
+    "coordinates": {
+      "lat": 23.9216219,
+      "lng": 90.7193252
+    }
+  },
+  {
+    "place_id": "ChIJcQcPR7CPVTcRQgkdjzUpPHw",
+    "name": "Fire Service and Civil Defense Station, Dohar",
+    "address": "J46F+639, R820, Bangladesh",
+    "rating": 4.8,
+    "contact_number": "01726-845949",
+    "coordinates": {
+      "lat": 23.6105284,
+      "lng": 90.1227207
+    }
+  },
+  {
+    "place_id": "ChIJ4YSUc9j8VTcRr016HIGTvSE",
+    "name": "Fire Service & Civil Defense",
+    "address": "34WQ+968, N4, Bangladesh",
+    "rating": 5,
+    "contact_number": "01901-020980",
+    "coordinates": {
+      "lat": 24.095911,
+      "lng": 90.13808979999999
+    }
+  },
+  {
+    "place_id": "ChIJcVWmWJW5VTcRColioQlsISc",
+    "name": "Postogola Fire Service Station",
+    "address": "MCRJ+H64, M C Rd, Dhaka, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01730-002216",
+    "coordinates": {
+      "lat": 23.691376,
+      "lng": 90.4305626
+    }
+  },
+  {
+    "place_id": "ChIJReVo8Pe2VTcRNc-niJa6X6c",
+    "name": "Demra Fire Station",
+    "address": "Demra-Narayanganj Rd, Sarulia, Near Rani Mahal Cinema Hall, PF7X+J67, Dhaka 1361, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002302",
+    "coordinates": {
+      "lat": 23.7140452,
+      "lng": 90.498046
+    }
+  },
+  {
+    "place_id": "ChIJg_a5hrrHVTcREqZbaMX2Wv8",
+    "name": "Fire Service & Civil Defence Station, Baridhara",
+    "address": "plot 1 Madani Ave, Dhaka 1212, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "02-8833000",
+    "coordinates": {
+      "lat": 23.7980196,
+      "lng": 90.42405649999999
+    }
+  },
+  {
+    "place_id": "ChIJG2R3_iLHVTcRp9Trpq8H_kA",
+    "name": "NP Engineering Limited (Npe)",
+    "address": "Nannu Plaza(3rd Floor)2495, Madani Avenue, Baridhara Dhaka-1212, Dhaka 1360, Bangladesh",
+    "rating": 5,
+    "contact_number": "01911-175831",
+    "coordinates": {
+      "lat": 23.79850919999999,
+      "lng": 90.434595
+    }
+  },
+  {
+    "place_id": "ChIJ2WtUJ-vHVTcRE68b0tcvjr0",
+    "name": "Community Fire Hydrant",
+    "address": "QCG4+Q2W, Dhaka 1212, Bangladesh",
+    "rating": 4.7,
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.7769796,
+      "lng": 90.40508419999999
+    }
+  },
+  {
+    "place_id": "ChIJMfDCANXHVTcROWYZor7o0uk",
+    "name": "DOHS Fire Service Station",
+    "address": "Q9MV+Q93, Rd No 19, Dhaka, Bangladesh",
+    "rating": 5,
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.784386,
+      "lng": 90.39342719999999
+    }
+  },
+  {
+    "place_id": "ChIJLVI84o_HVTcRoLP6MTkVEXs",
+    "name": "Sks Tower Fire Control Room",
+    "address": "Sks tower, Q9HW+9RR, ঢাকা 1212, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.7784849,
+      "lng": 90.397031
+    }
+  },
+  {
+    "place_id": "ChIJzZ-BDvHGVTcRYgo1n4TKVbY",
+    "name": "Kurmitola Fire Station",
+    "address": "RCG3+QWM, Dhaka 1206, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002232",
+    "coordinates": {
+      "lat": 23.8269605,
+      "lng": 90.4048085
+    }
+  },
+  {
+    "place_id": "ChIJ_9WQXmLHVTcRr5KCIGptoiU",
+    "name": "Fire Service and Civil Defense, Tejgaon Fire Station",
+    "address": "QC72+R62, Shaheed Tajuddin Ahmed Ave, Dhaka 1208, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01901-020758",
+    "coordinates": {
+      "lat": 23.7645059,
+      "lng": 90.40053089999999
+    }
+  },
+  {
+    "place_id": "ChIJz30cegDHVTcRRRK0tfcQ1eQ",
+    "name": "Rescue Fire Fighting Station",
+    "address": "RCM7+F92, Engineer Zobayer Hashan Street, Dhaka, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.8333113,
+      "lng": 90.4137757
+    }
+  },
+  {
+    "place_id": "ChIJKSMH1dfBVTcR9xq3rgRE_CU",
+    "name": "Fire Service And Civil Defence Station Mirpur",
+    "address": "R948+VVQ, Mirpur Rd, Dhaka 1216, Bangladesh",
+    "rating": 4.6,
+    "contact_number": "01628-138596",
+    "coordinates": {
+      "lat": 23.8072068,
+      "lng": 90.36724009999999
+    }
+  },
+  {
+    "place_id": "ChIJiWEBnju5VTcRe-21RUVxDQs",
+    "name": "GLOBALWIDE TECHNOLOGY & LOGISTICS",
+    "address": "59, Kazi Najrul Islam Avenue, 1st Floor, West Tejkunipara Farmgate, ঢাকা 1215, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "01919-883441",
+    "coordinates": {
+      "lat": 23.7551209,
+      "lng": 90.3910542
+    }
+  },
+  {
+    "place_id": "ChIJiURCt2y4VTcRr9IzA03tzpo",
+    "name": "Khilgaon Fire Station & Civil Defense Station",
+    "address": "PCWJ+99V, Shantipur Rd 02, Dhaka 1219, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "02-7218329",
+    "coordinates": {
+      "lat": 23.7459772,
+      "lng": 90.4309224
+    }
+  },
+  {
+    "place_id": "ChIJszN86lS_VTcRoVmDGiBj_GE",
+    "name": "Bangladesh Fire Service and Civil Defense",
+    "address": "Q95F+CFR, Mirpur Rd, Dhaka 1205, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002227",
+    "coordinates": {
+      "lat": 23.7586236,
+      "lng": 90.3736438
+    }
+  },
+  {
+    "place_id": "ChIJCf7dAJzGVTcRBsRkEMC0wig",
+    "name": "Airport Fire Station",
+    "address": "V92X+VC9, Dhaka 1229, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "02-8901077",
+    "coordinates": {
+      "lat": 23.8521744,
+      "lng": 90.3986048
+    }
+  },
+  {
+    "place_id": "ChIJKQZJpvPBVTcR47jyENjJEv8",
+    "name": "Pallabi Fire Service and Civil Defense",
+    "address": "R9R9+97Q Brindabon, Dhaka, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "01730-002229",
+    "coordinates": {
+      "lat": 23.8409577,
+      "lng": 90.36823489999999
+    }
+  },
+  {
+    "place_id": "ChIJx1HGArPBVTcRNfS7b8ICkLg",
+    "name": "Bangladesh Fire Service and Civil Defense Department",
+    "address": "38, 46 কাজি আলাউদ্দিন রোড, Dhaka 1100, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01726-080454",
+    "coordinates": {
+      "lat": 23.8427414,
+      "lng": 90.3650239
+    }
+  },
+  {
+    "place_id": "ChIJQUCGyES5VTcRKkgmroeSr7U",
+    "name": "সচিবালয় অস্থায়ী ফায়ার স্টেশন",
+    "address": "PCH5+5M2, Dhaka 1205, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.72788779999999,
+      "lng": 90.40915539999999
+    }
+  },
+  {
+    "place_id": "ChIJfb-Bs2G5VTcRFll_4v8t-uM",
+    "name": "Dhaka Inland Container Depot (ICD) Fire Station",
+    "address": "PCGH+596, T.T. Para Circle, Dhaka, Bangladesh",
+    "rating": 5,
+    "contact_number": "01519-114649",
+    "coordinates": {
+      "lat": 23.7254058,
+      "lng": 90.4283763
+    }
+  },
+  {
+    "place_id": "ChIJYeFivfu4VTcRFeRuPvIwcUk",
+    "name": "Bangladesh Fire Service and Civil Defense Head Quarter",
+    "address": "38-46 Kazi Alauddin Road, Fulbaria Rd, ঢাকা 1000, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "01730-336699",
+    "coordinates": {
+      "lat": 23.7227803,
+      "lng": 90.4060623
+    }
+  },
+  {
+    "place_id": "ChIJE7Qtmty4VTcR64xFrEmPoIs",
+    "name": "Fire Service and Civil Defense Station, Palashi",
+    "address": "P9GQ+5PP, Dhakeshwari Rd, Dhaka 1000, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "02-8628688",
+    "coordinates": {
+      "lat": 23.7254623,
+      "lng": 90.3893354
+    }
+  },
+  {
+    "place_id": "ChIJZaxA2Ay5VTcRXa1iCDe0As4",
+    "name": "AD Office Dhaka",
+    "address": "PCC4+VC6, Kazi Alauddin Rd, Dhaka 1000, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.722167,
+      "lng": 90.406009
+    }
+  },
+  {
+    "place_id": "ChIJGz7BIty4VTcRGJFxctme7AM",
+    "name": "Lalbagh Fire Station",
+    "address": "Opp to Dhakeshwari mandir, 22/1 Nur Fattah Lane, Dhaka 1000, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "02-58617171",
+    "coordinates": {
+      "lat": 23.7216473,
+      "lng": 90.3903446
+    }
+  },
+  {
+    "place_id": "ChIJX5pkD8LJVTcRc8471UOBSxA",
+    "name": "Fire Service & Civil Defence station Purbachal, Rupganj, Narayanganj",
+    "address": "RFQP+F6C Fire service and civil defence field, Purbacahal, Bangladesh",
+    "rating": 3.9,
+    "contact_number": "01901-020858",
+    "coordinates": {
+      "lat": 23.8386981,
+      "lng": 90.4855144
+    }
+  },
+  {
+    "place_id": "ChIJq-lv2C2_VTcRskJJPmJ1wpI",
+    "name": "Fire Service & Civil Defence Station, Hazaribagh",
+    "address": "P9GC+237, রোড, Dhaka, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "02-58616222",
+    "coordinates": {
+      "lat": 23.7250443,
+      "lng": 90.37016729999999
+    }
+  },
+  {
+    "place_id": "ChIJSXkR7ga5VTcRsZsN7H-xfMA",
+    "name": "Sadarghat Fire Service and Civil Defense Station",
+    "address": "PC45+QPW, Simson Rd, Dhaka 1100, Bangladesh",
+    "rating": 4.7,
+    "contact_number": "02-7119759",
+    "coordinates": {
+      "lat": 23.706986,
+      "lng": 90.40934159999999
+    }
+  },
+  {
+    "place_id": "ChIJmRSAq_bDVTcRb0iJpzhE0a8",
+    "name": "Fire Service & Civil Defence Station, Uttara",
+    "address": "V9GC+64C, Sonargaon Janapath, Dhaka 1230, Bangladesh",
+    "rating": 4.2,
+    "contact_number": "01901-020782",
+    "coordinates": {
+      "lat": 23.8755549,
+      "lng": 90.3702517
+    }
+  },
+  {
+    "place_id": "ChIJA0CCaq-5VTcRFOhxdO6J_UU",
+    "name": "Sutrapur Fire Station",
+    "address": "119, 133 R M Dash Rd, Dhaka, Bangladesh",
+    "rating": 4,
+    "contact_number": "02-7119759",
+    "coordinates": {
+      "lat": 23.7047632,
+      "lng": 90.4189785
+    }
+  },
+  {
+    "place_id": "ChIJjz-soUXEVTcRHNFE5fGr6B4",
+    "name": "Tongi Fire Service And Civil Defence Station",
+    "address": "VCQ2+HP5, Dhaka - Mymensingh Hwy, Tongi, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002130",
+    "coordinates": {
+      "lat": 23.8903367,
+      "lng": 90.4019341
+    }
+  },
+  {
+    "place_id": "ChIJD6KStuq5VTcRLaN_GdGj8lE",
+    "name": "Abdus Samad Azad HD",
+    "address": "MCQV+873, Dhaka 1204, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "01711-465795",
+    "coordinates": {
+      "lat": 23.6882723,
+      "lng": 90.4431618
+    }
+  },
+  {
+    "place_id": "ChIJD2Lg8G_PVTcRWJnalAQRxms",
+    "name": "Fire Service and Civil Defence Station",
+    "address": "VGC3+QH9, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.8719215,
+      "lng": 90.50396889999999
+    }
+  },
+  {
+    "place_id": "ChIJ-xSM9vG-VTcRa2qKRQNi0Ls",
+    "name": "Keraniganj Fire Station",
+    "address": "M8XW+28R, Upozila Parishad Road, Keraniganj, Bangladesh",
+    "rating": 4.2,
+    "contact_number": "01901-020810",
+    "coordinates": {
+      "lat": 23.6976024,
+      "lng": 90.3457803
+    }
+  },
+  {
+    "place_id": "ChIJqcBXB6w2VDcRIp0JIrxZu5g",
+    "name": "Madhabdi Fire Station",
+    "address": "VM2J+HPG, Narsingdi - Araihazar Hwy, Madhabdi 1604, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "01726-688868",
+    "coordinates": {
+      "lat": 23.8514348,
+      "lng": 90.68182619999999
+    }
+  },
+  {
+    "place_id": "ChIJXU98hHdGVDcRXHxQN7a1R9I",
+    "name": "Homna Fire Station",
+    "address": "MQ9J+FF2, Gouripur Road, Homna 3546, Bangladesh",
+    "rating": 4.6,
+    "contact_number": "01766-306868",
+    "coordinates": {
+      "lat": 23.6686273,
+      "lng": 90.7811401
+    }
+  },
+  {
+    "place_id": "ChIJ-19xtpPAVTcRV_IZdGbQhoc",
+    "name": "Kallyanpur Fire Service & Civil Defence Station",
+    "address": "1216, মাজার রোড, ঢাকা, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01813-573418",
+    "coordinates": {
+      "lat": 23.7822427,
+      "lng": 90.34935399999999
+    }
+  },
+  {
+    "place_id": "ChIJnQE1ayDvVTcRz4PdcYPtqJE",
+    "name": "Dhamrai Fire Station",
+    "address": "W644+VQ4, Dhaka - Aricha Hwy, Dhamrai 1350, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01742-302850",
+    "coordinates": {
+      "lat": 23.9071322,
+      "lng": 90.206956
+    }
+  },
+  {
+    "place_id": "ChIJZdKSh7PrVTcRy8PUbXjWf8E",
+    "name": "Fire Service & Civil Defence Station - Savar",
+    "address": "R7H5+9JP, Dhaka - Aricha Hwy, Savar 1340, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "01730-002250",
+    "coordinates": {
+      "lat": 23.828471,
+      "lng": 90.259092
+    }
+  },
+  {
+    "place_id": "ChIJKTZZDkwwVDcR22UYYykYBfE",
+    "name": "Fire Service & Civil Defense Station",
+    "address": "WPC9+JPW, Raipur Highway, Narsingdi 1600, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01901-020902",
+    "coordinates": {
+      "lat": 23.9216219,
+      "lng": 90.7193252
+    }
+  },
+  {
+    "place_id": "ChIJcQcPR7CPVTcRQgkdjzUpPHw",
+    "name": "Fire Service and Civil Defense Station, Dohar",
+    "address": "J46F+639, R820, Bangladesh",
+    "rating": 4.8,
+    "contact_number": "01726-845949",
+    "coordinates": {
+      "lat": 23.6105284,
+      "lng": 90.1227207
+    }
+  },
+  {
+    "place_id": "ChIJ4YSUc9j8VTcRr016HIGTvSE",
+    "name": "Fire Service & Civil Defense",
+    "address": "34WQ+968, N4, Bangladesh",
+    "rating": 5,
+    "contact_number": "01901-020980",
+    "coordinates": {
+      "lat": 24.095911,
+      "lng": 90.13808979999999
+    }
+  },
+  {
+    "place_id": "ChIJcVWmWJW5VTcRColioQlsISc",
+    "name": "Postogola Fire Service Station",
+    "address": "MCRJ+H64, M C Rd, Dhaka, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01730-002216",
+    "coordinates": {
+      "lat": 23.691376,
+      "lng": 90.4305626
+    }
+  },
+  {
+    "place_id": "ChIJReVo8Pe2VTcRNc-niJa6X6c",
+    "name": "Demra Fire Station",
+    "address": "Demra-Narayanganj Rd, Sarulia, Near Rani Mahal Cinema Hall, PF7X+J67, Dhaka 1361, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002302",
+    "coordinates": {
+      "lat": 23.7140452,
+      "lng": 90.498046
+    }
+  },
+  {
+    "place_id": "ChIJg_a5hrrHVTcREqZbaMX2Wv8",
+    "name": "Fire Service & Civil Defence Station, Baridhara",
+    "address": "plot 1 Madani Ave, Dhaka 1212, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "02-8833000",
+    "coordinates": {
+      "lat": 23.7980196,
+      "lng": 90.42405649999999
+    }
+  },
+  {
+    "place_id": "ChIJG2R3_iLHVTcRp9Trpq8H_kA",
+    "name": "NP Engineering Limited (Npe)",
+    "address": "Nannu Plaza(3rd Floor)2495, Madani Avenue, Baridhara Dhaka-1212, Dhaka 1360, Bangladesh",
+    "rating": 5,
+    "contact_number": "01911-175831",
+    "coordinates": {
+      "lat": 23.79850919999999,
+      "lng": 90.434595
+    }
+  },
+  {
+    "place_id": "ChIJ2WtUJ-vHVTcRE68b0tcvjr0",
+    "name": "Community Fire Hydrant",
+    "address": "QCG4+Q2W, Dhaka 1212, Bangladesh",
+    "rating": 4.7,
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.7769796,
+      "lng": 90.40508419999999
+    }
+  },
+  {
+    "place_id": "ChIJMfDCANXHVTcROWYZor7o0uk",
+    "name": "DOHS Fire Service Station",
+    "address": "Q9MV+Q93, Rd No 19, Dhaka, Bangladesh",
+    "rating": 5,
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.784386,
+      "lng": 90.39342719999999
+    }
+  },
+  {
+    "place_id": "ChIJLVI84o_HVTcRoLP6MTkVEXs",
+    "name": "Sks Tower Fire Control Room",
+    "address": "Sks tower, Q9HW+9RR, ঢাকা 1212, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.7784849,
+      "lng": 90.397031
+    }
+  },
+  {
+    "place_id": "ChIJzZ-BDvHGVTcRYgo1n4TKVbY",
+    "name": "Kurmitola Fire Station",
+    "address": "RCG3+QWM, Dhaka 1206, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002232",
+    "coordinates": {
+      "lat": 23.8269605,
+      "lng": 90.4048085
+    }
+  },
+  {
+    "place_id": "ChIJ_9WQXmLHVTcRr5KCIGptoiU",
+    "name": "Fire Service and Civil Defense, Tejgaon Fire Station",
+    "address": "QC72+R62, Shaheed Tajuddin Ahmed Ave, Dhaka 1208, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01901-020758",
+    "coordinates": {
+      "lat": 23.7645059,
+      "lng": 90.40053089999999
+    }
+  },
+  {
+    "place_id": "ChIJz30cegDHVTcRRRK0tfcQ1eQ",
+    "name": "Rescue Fire Fighting Station",
+    "address": "RCM7+F92, Engineer Zobayer Hashan Street, Dhaka, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.8333113,
+      "lng": 90.4137757
+    }
+  },
+  {
+    "place_id": "ChIJKSMH1dfBVTcR9xq3rgRE_CU",
+    "name": "Fire Service And Civil Defence Station Mirpur",
+    "address": "R948+VVQ, Mirpur Rd, Dhaka 1216, Bangladesh",
+    "rating": 4.6,
+    "contact_number": "01628-138596",
+    "coordinates": {
+      "lat": 23.8072068,
+      "lng": 90.36724009999999
+    }
+  },
+  {
+    "place_id": "ChIJiWEBnju5VTcRe-21RUVxDQs",
+    "name": "GLOBALWIDE TECHNOLOGY & LOGISTICS",
+    "address": "59, Kazi Najrul Islam Avenue, 1st Floor, West Tejkunipara Farmgate, ঢাকা 1215, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "01919-883441",
+    "coordinates": {
+      "lat": 23.7551209,
+      "lng": 90.3910542
+    }
+  },
+  {
+    "place_id": "ChIJiURCt2y4VTcRr9IzA03tzpo",
+    "name": "Khilgaon Fire Station & Civil Defense Station",
+    "address": "PCWJ+99V, Shantipur Rd 02, Dhaka 1219, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "02-7218329",
+    "coordinates": {
+      "lat": 23.7459772,
+      "lng": 90.4309224
+    }
+  },
+  {
+    "place_id": "ChIJszN86lS_VTcRoVmDGiBj_GE",
+    "name": "Bangladesh Fire Service and Civil Defense",
+    "address": "Q95F+CFR, Mirpur Rd, Dhaka 1205, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002227",
+    "coordinates": {
+      "lat": 23.7586236,
+      "lng": 90.3736438
+    }
+  },
+  {
+    "place_id": "ChIJCf7dAJzGVTcRBsRkEMC0wig",
+    "name": "Airport Fire Station",
+    "address": "V92X+VC9, Dhaka 1229, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "02-8901077",
+    "coordinates": {
+      "lat": 23.8521744,
+      "lng": 90.3986048
+    }
+  },
+  {
+    "place_id": "ChIJKQZJpvPBVTcR47jyENjJEv8",
+    "name": "Pallabi Fire Service and Civil Defense",
+    "address": "R9R9+97Q Brindabon, Dhaka, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "01730-002229",
+    "coordinates": {
+      "lat": 23.8409577,
+      "lng": 90.36823489999999
+    }
+  },
+  {
+    "place_id": "ChIJx1HGArPBVTcRNfS7b8ICkLg",
+    "name": "Bangladesh Fire Service and Civil Defense Department",
+    "address": "38, 46 কাজি আলাউদ্দিন রোড, Dhaka 1100, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "01726-080454",
+    "coordinates": {
+      "lat": 23.8427414,
+      "lng": 90.3650239
+    }
+  },
+  {
+    "place_id": "ChIJQUCGyES5VTcRKkgmroeSr7U",
+    "name": "সচিবালয় অস্থায়ী ফায়ার স্টেশন",
+    "address": "PCH5+5M2, Dhaka 1205, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.72788779999999,
+      "lng": 90.40915539999999
+    }
+  },
+  {
+    "place_id": "ChIJfb-Bs2G5VTcRFll_4v8t-uM",
+    "name": "Dhaka Inland Container Depot (ICD) Fire Station",
+    "address": "PCGH+596, T.T. Para Circle, Dhaka, Bangladesh",
+    "rating": 5,
+    "contact_number": "01519-114649",
+    "coordinates": {
+      "lat": 23.7254058,
+      "lng": 90.4283763
+    }
+  },
+  {
+    "place_id": "ChIJYeFivfu4VTcRFeRuPvIwcUk",
+    "name": "Bangladesh Fire Service and Civil Defense Head Quarter",
+    "address": "38-46 Kazi Alauddin Road, Fulbaria Rd, ঢাকা 1000, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "01730-336699",
+    "coordinates": {
+      "lat": 23.7227803,
+      "lng": 90.4060623
+    }
+  },
+  {
+    "place_id": "ChIJE7Qtmty4VTcR64xFrEmPoIs",
+    "name": "Fire Service and Civil Defense Station, Palashi",
+    "address": "P9GQ+5PP, Dhakeshwari Rd, Dhaka 1000, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "02-8628688",
+    "coordinates": {
+      "lat": 23.7254623,
+      "lng": 90.3893354
+    }
+  },
+  {
+    "place_id": "ChIJZaxA2Ay5VTcRXa1iCDe0As4",
+    "name": "AD Office Dhaka",
+    "address": "PCC4+VC6, Kazi Alauddin Rd, Dhaka 1000, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.722167,
+      "lng": 90.406009
+    }
+  },
+  {
+    "place_id": "ChIJGz7BIty4VTcRGJFxctme7AM",
+    "name": "Lalbagh Fire Station",
+    "address": "Opp to Dhakeshwari mandir, 22/1 Nur Fattah Lane, Dhaka 1000, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "02-58617171",
+    "coordinates": {
+      "lat": 23.7216473,
+      "lng": 90.3903446
+    }
+  },
+  {
+    "place_id": "ChIJX5pkD8LJVTcRc8471UOBSxA",
+    "name": "Fire Service & Civil Defence station Purbachal, Rupganj, Narayanganj",
+    "address": "RFQP+F6C Fire service and civil defence field, Purbacahal, Bangladesh",
+    "rating": 3.9,
+    "contact_number": "01901-020858",
+    "coordinates": {
+      "lat": 23.8386981,
+      "lng": 90.4855144
+    }
+  },
+  {
+    "place_id": "ChIJq-lv2C2_VTcRskJJPmJ1wpI",
+    "name": "Fire Service & Civil Defence Station, Hazaribagh",
+    "address": "P9GC+237, রোড, Dhaka, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "02-58616222",
+    "coordinates": {
+      "lat": 23.7250443,
+      "lng": 90.37016729999999
+    }
+  },
+  {
+    "place_id": "ChIJSXkR7ga5VTcRsZsN7H-xfMA",
+    "name": "Sadarghat Fire Service and Civil Defense Station",
+    "address": "PC45+QPW, Simson Rd, Dhaka 1100, Bangladesh",
+    "rating": 4.7,
+    "contact_number": "02-7119759",
+    "coordinates": {
+      "lat": 23.706986,
+      "lng": 90.40934159999999
+    }
+  },
+  {
+    "place_id": "ChIJmRSAq_bDVTcRb0iJpzhE0a8",
+    "name": "Fire Service & Civil Defence Station, Uttara",
+    "address": "V9GC+64C, Sonargaon Janapath, Dhaka 1230, Bangladesh",
+    "rating": 4.2,
+    "contact_number": "01901-020782",
+    "coordinates": {
+      "lat": 23.8755549,
+      "lng": 90.3702517
+    }
+  },
+  {
+    "place_id": "ChIJA0CCaq-5VTcRFOhxdO6J_UU",
+    "name": "Sutrapur Fire Station",
+    "address": "119, 133 R M Dash Rd, Dhaka, Bangladesh",
+    "rating": 4,
+    "contact_number": "02-7119759",
+    "coordinates": {
+      "lat": 23.7047632,
+      "lng": 90.4189785
+    }
+  },
+  {
+    "place_id": "ChIJjz-soUXEVTcRHNFE5fGr6B4",
+    "name": "Tongi Fire Service And Civil Defence Station",
+    "address": "VCQ2+HP5, Dhaka - Mymensingh Hwy, Tongi, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01730-002130",
+    "coordinates": {
+      "lat": 23.8903367,
+      "lng": 90.4019341
+    }
+  },
+  {
+    "place_id": "ChIJD6KStuq5VTcRLaN_GdGj8lE",
+    "name": "Abdus Samad Azad HD",
+    "address": "MCQV+873, Dhaka 1204, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "01711-465795",
+    "coordinates": {
+      "lat": 23.6882723,
+      "lng": 90.4431618
+    }
+  },
+  {
+    "place_id": "ChIJD2Lg8G_PVTcRWJnalAQRxms",
+    "name": "Fire Service and Civil Defence Station",
+    "address": "VGC3+QH9, Bangladesh",
+    "rating": "N/A",
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.8719215,
+      "lng": 90.50396889999999
+    }
+  },
+  {
+    "place_id": "ChIJ-xSM9vG-VTcRa2qKRQNi0Ls",
+    "name": "Keraniganj Fire Station",
+    "address": "M8XW+28R, Upozila Parishad Road, Keraniganj, Bangladesh",
+    "rating": 4.2,
+    "contact_number": "01901-020810",
+    "coordinates": {
+      "lat": 23.6976024,
+      "lng": 90.3457803
+    }
+  },
+  {
+    "place_id": "ChIJP8q32YPLVTcRJFBr-HwdZac",
+    "name": "Fire Fighting Station 004",
+    "address": "RGMV+PF9, Dhaka City Bypass, Bangladesh",
+    "rating": 5,
+    "contact_number": "N/A",
+    "coordinates": {
+      "lat": 23.834289,
+      "lng": 90.5437381
+    }
+  },
+  {
+    "place_id": "ChIJ902Jj7DLVTcRL7tWeGdsoTs",
+    "name": "Kanchan River Fire Station",
+    "address": "RHC2+CG7, Rupganj, Bangladesh",
+    "rating": 3.8,
+    "contact_number": "01730-002317",
+    "coordinates": {
+      "lat": 23.8210336,
+      "lng": 90.55128789999999
+    }
+  },
+  {
+    "place_id": "ChIJ028uC7q3VTcRRQWQcJvQSOs",
+    "name": "Shimrail Fire Station",
+    "address": "PG28+VFH, Kanchpur Bridge, Narayanganj, Bangladesh",
+    "rating": 5,
+    "contact_number": "01901-020848",
+    "coordinates": {
+      "lat": 23.70232829999999,
+      "lng": 90.5154183
+    }
+  },
+  {
+    "place_id": "ChIJed61-0u3VTcRafPI8rWlN-0",
+    "name": "Fire Service & Civil Defence Station, Adamjee EPZ, Narayanganj",
+    "address": "MGH8+XRJ, Narayanganj, Bangladesh",
+    "rating": 4.8,
+    "contact_number": "01758-045151",
+    "coordinates": {
+      "lat": 23.6799714,
+      "lng": 90.51702259999999
+    }
+  },
+  {
+    "place_id": "ChIJCXGb7ROxVTcRIup7nTH-QZ0",
+    "name": "Pagla Land and River Fire Service and Civil Defence Station, Narayanganj",
+    "address": "JFX9+57F, Narayanganj, Bangladesh",
+    "rating": 4.3,
+    "contact_number": "02-47670005",
+    "coordinates": {
+      "lat": 23.6479397,
+      "lng": 90.4681782
+    }
+  },
+  {
+    "place_id": "ChIJZ6LAaPvrVTcRkwuRmCplo3Y",
+    "name": "Leather Industry City Fire Station",
+    "address": "Fire service and civil defence station, Leather Industrial City, Leather Industry, Bangladesh",
+    "rating": 1,
+    "contact_number": "01901-020824",
+    "coordinates": {
+      "lat": 23.7794382,
+      "lng": 90.2412531
+    }
+  },
+  {
+    "place_id": "ChIJq_J6CPqwVTcREdRzOyy35Qc",
+    "name": "BSCIC Fire Station, Fatullah",
+    "address": "Shashongoan, JFGH+HFM, নারায়ণগঞ্জ, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "01754-052575",
+    "coordinates": {
+      "lat": 23.6264634,
+      "lng": 90.47866479999999
+    }
+  },
+  {
+    "place_id": "ChIJ8VVzRn_bVTcR4K7TiM7l4jg",
+    "name": "Modern Fire Service & Civil Defense",
+    "address": "X9GG+VRW, Gazipur, Bangladesh",
+    "rating": 3.7,
+    "contact_number": "01901-020874",
+    "coordinates": {
+      "lat": 23.9772435,
+      "lng": 90.37706329999999
+    }
+  },
+  {
+    "place_id": "ChIJH81Ys2-xVTcRVSiX2diPVVE",
+    "name": "Hazigonj Fire Station",
+    "address": "JGM7+9J3, Kella Road, Narayanganj, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "01730-002311",
+    "coordinates": {
+      "lat": 23.633385,
+      "lng": 90.514033
+    }
+  },
+  {
+    "place_id": "ChIJM6oaKDbpVTcRQVozFQ4x9nE",
+    "name": "Modern Fire Service And Civil Defence Station, Savar Senanibas, Zirabo, Dhaka",
+    "address": "Dhaka - Ashulia Hwy, Dendabor, Bangladesh",
+    "rating": 4.2,
+    "contact_number": "01993-556032",
+    "coordinates": {
+      "lat": 23.92223329999999,
+      "lng": 90.2628749
+    }
+  },
+  {
+    "place_id": "ChIJB1ry5p6xVTcRx-FpuxiE5hg",
+    "name": "Bandar Fire Serveice",
+    "address": "JG85+6PW, Wilson Road, Kadamrasul 1410, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "01730-002313",
+    "coordinates": {
+      "lat": 23.6156246,
+      "lng": 90.5093162
+    }
+  },
+  {
+    "place_id": "ChIJvwOLgqSxVTcRbRGUbCCaR7U",
+    "name": "Mondal Para Fire Service Station",
+    "address": "JG52+RRH, Narayanganj, Bangladesh",
+    "rating": 4.6,
+    "contact_number": "01730-002310",
+    "coordinates": {
+      "lat": 23.609551,
+      "lng": 90.5021163
+    }
+  },
+  {
+    "place_id": "ChIJw__Tmg-xVTcRTDZJf2NCyVo",
+    "name": "Fire Service and Civil Defence Station, Narayanganj",
+    "address": "JG52+RV6, Narayanganj, Bangladesh",
+    "rating": 4.5,
+    "contact_number": "01730-002310",
+    "coordinates": {
+      "lat": 23.60953709999999,
+      "lng": 90.5021481
+    }
+  },
+  {
+    "place_id": "ChIJdW9zxnfoVTcR0clVfFPRidU",
+    "name": "DEPZ Fire Station",
+    "address": "X72F+V6X DEPZ, Nabinagar - Chandra Rd, Ashulia, Bangladesh",
+    "rating": 4.2,
+    "contact_number": "01730-002301",
+    "coordinates": {
+      "lat": 23.9522398,
+      "lng": 90.2731048
+    }
+  },
+  {
+    "place_id": "ChIJ1-E26FjaVTcRBy8d_CNfEO8",
+    "name": "Gazipur Fire Station",
+    "address": "2C3G+456, Uttar Chhayabithy Road, Gazipur 1700, Bangladesh",
+    "rating": 4,
+    "contact_number": "02-49273252",
+    "coordinates": {
+      "lat": 24.0027764,
+      "lng": 90.4254062
+    }
+  },
+  {
+    "place_id": "ChIJE0xKwtTdVTcRVRqFaHqmAGA",
+    "name": "Mini Fire Station",
+    "address": "X8J5+F5R DBL, Mini Fire Service, 1700, Bangladesh",
+    "rating": 4.4,
+    "contact_number": "01755-630094",
+    "coordinates": {
+      "lat": 23.9812367,
+      "lng": 90.3078846
+    }
+  },
+  {
+    "place_id": "ChIJuRM-C1M1VDcR5396LqWj1Eo",
+    "name": "Araihazar Fire Service & Civil Defence Station",
+    "address": "QJJW+W6W, Bangladesh",
+    "rating": 4,
+    "contact_number": "01732-939352",
+    "coordinates": {
+      "lat": 23.78237159999999,
+      "lng": 90.64558219999999
+    }
+  },
+  {
+    "place_id": "ChIJZ9tR5DOzVTcRMbjZiboCMtA",
+    "name": "Sonargaon Fire Station",
+    "address": "JHXP+MCF, N1, Sonargaon, Bangladesh",
+    "rating": 4,
+    "contact_number": "01901-020846",
+    "coordinates": {
+      "lat": 23.6491989,
+      "lng": 90.5860536
+    }
+  },
+  {
+    "place_id": "ChIJMTPe30OzVTcR4SC7sgSuvNc",
+    "name": "Fire service",
+    "address": "JHXP+MCP, Sonargaon, Bangladesh",
+    "rating": 4.1,
+    "contact_number": "01304-066155",
+    "coordinates": {
+      "lat": 23.6492167,
+      "lng": 90.5860763
+    }
+  },
+  {
+    "place_id": "ChIJY8PqLSW9VTcR85Nv_57qTZ8",
+    "name": "Fire Service and Civil Defence Sirajdikhan",
+    "address": "H9M7+MJH, Bangladesh",
+    "rating": 5,
+    "contact_number": "01703-662110 ext. 102",
+    "coordinates": {
+      "lat": 23.584176,
+      "lng": 90.3641155
+    }
+  }
+]
